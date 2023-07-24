@@ -2,7 +2,7 @@
 
 <img src="public/preview.png">
 
-### `Run all4_clone` 
+### `Run Campaigns` 
 
 * cd into app
 
