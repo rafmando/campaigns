@@ -4,11 +4,6 @@
 
 ### `Run Campaigns` 
 
-* cd into app
-
-```
-cd my-app
-```
 * install dependancies
 
 ```
